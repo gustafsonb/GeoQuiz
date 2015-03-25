@@ -1249,6 +1249,11 @@ containing a value of this type.
         public static final int false_button=0x7f0a000f;
         public static final int incorrect_toast=0x7f0a0012;
         public static final int next_button=0x7f0a0010;
+        public static final int question_africa=0x7f0a0016;
+        public static final int question_americas=0x7f0a0017;
+        public static final int question_asia=0x7f0a0018;
+        public static final int question_mideast=0x7f0a0015;
+        public static final int question_oceans=0x7f0a0014;
         public static final int true_button=0x7f0a000e;
     }
     public static final class style {
